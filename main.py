@@ -172,18 +172,6 @@ print(f'Перечень лекторов:\n\n{best_lecturer_1}\n\n{best_lecture
 print()
 print()
 
-# print(f'Результат сравнения студентов (по средним оценкам за ДЗ):\n')
-#       # f' {student_1.name} {student_1.surname} > {student_2.name} {student_2.surname} = {student_1 > student_2}')
-# if student_1 > student_2:
-#     print(f'{student_1.name} {student_1.surname} < {student_2.name} {student_2.surname}')
-# elif student_1 > student_2:
-#     print(f'{student_1.name} {student_1.surname} < {student_2.name} {student_2.surname}')
-# print()
-
-# print(f'Результат сравнения лекторов (по средним оценкам за лекции):\n '
-#       f'{best_lecturer_1.name} {best_lecturer_1.surname} > {best_lecturer_2.name} {best_lecturer_2.surname} = {best_lecturer_1 > best_lecturer_2}')
-# print()
-
 
 student_list = [student_1 , student_2, student_3]
 lecturer_list = [best_lecturer_1, best_lecturer_2, best_lecturer_3]
